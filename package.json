@@ -1,0 +1,31 @@
+{
+  "name": "festival-musica",
+  "version": "1.0.0",
+  "description": "aprendiendos sasaa y npm",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "sass": " sass --watch src/scss:build/css",
+    "dev": "gulp dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianmoreno1993/festival-musica.git"
+  },
+  "keywords": [
+    "SASS",
+    "NPM",
+    "GULP"
+  ],
+  "author": "CRISTIAN-MORENO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristianmoreno1993/festival-musica/issues"
+  },
+  "homepage": "https://github.com/cristianmoreno1993/festival-musica#readme",
+  "devDependencies": {
+    "gulp": "^5.0.1",
+    "gulp-sass": "^6.0.1",
+    "sass": "^1.89.2"
+  }
+}
